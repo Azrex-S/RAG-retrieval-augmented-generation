@@ -11,16 +11,4 @@ Store embeddings in ChromaDB
 Retrieve relevant chunks for a query
 Generate answers using a language model
 
-Tech Stack
-Python
-LangChain
-ChromaDB
-How to Run
-Install dependencies
-pip install -r requirements.txt
-Add documents to the data/ folder
-Run main.ipynb and start querying
-Use Cases
-Document Q&A
-Study assistant
-Custom knowledge chatbot
+
